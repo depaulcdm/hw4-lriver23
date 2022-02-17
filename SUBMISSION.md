@@ -33,16 +33,32 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
 
-The links above seemed to work, here are the urls though.
-https://github.com/depaulcdm/hw4-lriver23/blob/master/hello-world/build.xml
+The links above seemed to work, here are the urls though.<br/>
+https://github.com/depaulcdm/hw4-lriver23/blob/master/hello-world/build.xml<br/>
 https://github.com/depaulcdm/hw4-lriver23/blob/master/hello-world/ivy.xml
 
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
+
+![Ant Screen Capture #4](images/maven-1.png)
+
+
 - [10 pts] A screen capture showing a successful build using the Maven script.
+
+![Ant Screen Capture #4](images/maven-2.png)
+
+
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+
+![Ant Screen Capture #4](images/maven-3.png)
+
+
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+
+https://github.com/depaulcdm/hw4-lriver23/blob/master/hello-world/pom.xml
+
+
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
